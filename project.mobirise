@@ -51,13 +51,14 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "pl2in0uxez",
+    "mbrsiteDomain": "ov6exhaorq",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "cookiesAlert": false
   },
   "pages": {
     "boutiquesworldR.html": {
